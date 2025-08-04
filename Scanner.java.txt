@@ -1,0 +1,13 @@
+import.Java.util.*
+class Sample {
+public static void main(String args[]);
+{
+  int a;
+Scanner k = new Scanner(System.in);
+        a = k.nextInt() 
+      next();
+System.out.println("Read a");
+nextLine();
+System.out.println(a);
+}
+}
